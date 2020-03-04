@@ -7,8 +7,7 @@ $Packages = 'googlechrome',`
             'visualstudiocode',`
             'docker-for-windows',`
             'git',`
-			'azure-cli',`
-            'visualstudio2019community',`
+	    'azure-cli',`        
             'visualstudio2019-workload-azure',`
             'visualstudio2019-workload-netweb'
 
